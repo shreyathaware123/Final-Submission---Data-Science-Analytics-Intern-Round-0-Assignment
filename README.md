@@ -15,6 +15,13 @@ Analyze how market sentiment (Fear/Greed) impacts trader behavior and performanc
 5. Segmentation of Traders
 6. Strategy Recommendations
 
+## Results & Visualizations
+- Average PnL by Market Sentiment
+- Trade Frequency by Market Sentiment
+- Long/Short Bias by Sentiment
+- Position Size Analysis
+- Trader Segmentation Analysis
+
 ## Key Insights
 - Traders perform best during Extreme Greed and worst during Extreme Fear
 - Trading activity is highest during Fear conditions
