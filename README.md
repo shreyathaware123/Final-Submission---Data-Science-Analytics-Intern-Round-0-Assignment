@@ -30,3 +30,6 @@ Analyze how market sentiment (Fear/Greed) impacts trader behavior and performanc
 ## Tools Used
 - Python (Pandas, Matplotlib)
 - Jupyter Notebook
+
+## Limitations
+- Leverage data was not available, so leverage-based analysis was not performed.
